@@ -4,6 +4,8 @@
  *  which takes only one argument.
  */
 
+package com.edu
+
 object CurryFunction {
 
   def sum(x: Int, y: Int) = x + y;

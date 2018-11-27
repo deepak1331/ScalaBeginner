@@ -1,5 +1,7 @@
 
 //Match is like Switch cases in Java
+package com.edu
+
 object MatchDemo {
   
   def main(a:Array[String]){

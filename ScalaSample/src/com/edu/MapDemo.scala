@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object MapDemo {
   val myMap: Map[Int, String] = Map(1 -> "Deepak", 2 -> "Nisha", 3 -> "Shipra")
 

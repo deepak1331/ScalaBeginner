@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object WhileLoop {
   
   def main(a:Array[String]){

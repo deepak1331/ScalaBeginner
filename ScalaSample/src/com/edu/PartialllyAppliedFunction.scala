@@ -1,3 +1,5 @@
+package com.edu
+
 import java.util.Date
 
 object PartialllyAppliedFunction {

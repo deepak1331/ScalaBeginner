@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object IfElseDemo {
   def main(a:Array[String]){
     val x = 10;

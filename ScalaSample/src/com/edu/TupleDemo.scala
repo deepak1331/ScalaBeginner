@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object TupleDemo {
   //hetrogeneous collection, can contain any type of data
   //max size of tuple is 22

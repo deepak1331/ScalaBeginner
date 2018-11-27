@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object OptionTypeDemo {
   
   val list = List(1,5,6,9,7,4)

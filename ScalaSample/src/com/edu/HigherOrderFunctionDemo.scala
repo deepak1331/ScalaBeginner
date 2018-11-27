@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object HigherOrderFunctionDemo {
 
   //Math function takes, two Double argument and one function argument

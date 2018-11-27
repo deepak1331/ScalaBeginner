@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object FunctionDemo {
 
   //Option 1: You need to define the Return Type , '=' sign and add return statement

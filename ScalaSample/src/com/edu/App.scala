@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object App {
   def main(a:Array[String]){
     println("Hello World from Scala !")

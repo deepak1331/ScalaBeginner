@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object ArrayDemo {
 
   val arr1: Array[Int] = new Array[Int](4);

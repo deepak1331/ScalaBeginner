@@ -1,5 +1,7 @@
 
 
+package com.edu
+
 object AnonymousFunctionDemo {
 
   object Math {
